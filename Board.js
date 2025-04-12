@@ -153,16 +153,16 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
+        q: 'Er fredags caféen kun åben om fredagen?',
+        a: true,
+      },
+      {
+        q: 'Er fredags café åben alle fredag?',
         a: false,
       },
       {
-        q: 'blablabla',
-        a: false,
-      },
-      {
-        q: 'blablabla',
-        a: false,
+        q: 'Kan man opholde sig i fredags caféen i hverdagene?',
+        a: true,
       },
     ] 
 
@@ -174,7 +174,15 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
+        q: 'Er gården et udendørs område?',
+        a: true,
+      },
+      {
+        q: 'Kan man spille fodbold i gården?',
+        a: true,
+      },
+      {
+        q: 'Er gården kun til at sidde i?',
         a: false,
       },
     ] 
@@ -186,6 +194,14 @@ let board = [
     rent: 5,
     owner:0,
     quiz:[ 
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
       {
         q: 'blablabla',
         a: false,
@@ -203,6 +219,14 @@ let board = [
         q: 'blablabla',
         a: false,
       },
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
     ] 
 
   },
@@ -212,6 +236,14 @@ let board = [
     rent: 10,
     owner:0,
     quiz:[ 
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
       {
         q: 'blablabla',
         a: false,
@@ -229,6 +261,14 @@ let board = [
         q: 'blablabla',
         a: false,
       },
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
     ] 
 
   },
@@ -238,6 +278,14 @@ let board = [
     rent: 10,
     owner:0,
     quiz:[ 
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
       {
         q: 'blablabla',
         a: false,
@@ -255,6 +303,14 @@ let board = [
         q: 'blablabla',
         a: false,
       },
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
     ] 
 
   },
@@ -264,6 +320,14 @@ let board = [
     rent: 75,
     owner:0,
     quiz:[ 
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
       {
         q: 'blablabla',
         a: false,
@@ -281,6 +345,14 @@ let board = [
         q: 'blablabla',
         a: false,
       },
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
     ] 
 
   },
@@ -290,6 +362,14 @@ let board = [
     rent: 20,
     owner:0,
     quiz:[ 
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
       {
         q: 'blablabla',
         a: false,
@@ -307,6 +387,15 @@ let board = [
         q: 'blablabla',
         a: false,
       },
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
+  
     ] 
 
   },
@@ -316,6 +405,14 @@ let board = [
     rent: 500,
     owner:0,
     quiz:[ 
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
       {
         q: 'blablabla',
         a: false,
@@ -333,6 +430,14 @@ let board = [
         q: 'blablabla',
         a: false,
       },
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
     ] 
 
   },
@@ -346,6 +451,14 @@ let board = [
         q: 'blablabla',
         a: false,
       },
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
     ] 
 
   },
@@ -355,6 +468,14 @@ let board = [
     rent: 900,
     owner:0,
     quiz:[ 
+      {
+        q: 'blablabla',
+        a: false,
+      },
+      {
+        q: 'blablabla',
+        a: false,
+      },
       {
         q: 'blablabla',
         a: false,
