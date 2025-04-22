@@ -38,6 +38,12 @@ function setup() {
 }
 
 function draw() {
+
+}
+
+function getDice() {
+
+}
   
-  }
-  
+
+
