@@ -43,7 +43,7 @@ function interface() {
 }
 
 
-function buyButton() {
+function Buttons() {
   createButton('Buy')
   .position(100, 100)
 
