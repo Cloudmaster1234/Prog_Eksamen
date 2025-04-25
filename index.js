@@ -17,6 +17,7 @@ function setup() {
   interface()
   buyButton()
   newTurn()
+  nextplayer()
 }
 
 function newTurn(){
@@ -24,6 +25,10 @@ function newTurn(){
   state = "dice"
   showText('Det er nu ' + players[currentPlayer].name + "'s tur til at slå med terningen")
   //SEND MQTT BESKED OM AT DER SKAL SLÅS MED TERNINGEN 
+}
+
+function nextplayer(){
+
 }
 
 function showText(t){
@@ -43,7 +48,9 @@ function interface() {
 }
 
 
-function buyButton() {
+function Buttons() {
+  createButton('vidre')
+  .position(200, 200)
   createButton('Buy')
   .position(100, 100)
 
