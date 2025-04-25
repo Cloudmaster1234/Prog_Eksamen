@@ -203,7 +203,7 @@ let board = [
         a: true,
       },
       {
-        q: 'blablabla',
+        q: 'må man røre bordet man skyder retur?',
         a: false,
       },
     ] 
@@ -216,16 +216,16 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
+        q: 'kan man blande alle kemikalier uden at der sker noget?',
         a: false,
       },
       {
-        q: 'blablabla',
+        q: 'Skal man altid smage på kemikalier for at vide hvad de er?',
         a: false,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Kan nogle kemiske reaktioner være farlige?',
+        a: true,
       },
     ] 
 
@@ -237,15 +237,15 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Er tyngdekraften den kraft, der trækker os ned mod jorden?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Kan lys rejse hurtigere end lyden?',
+        a: true,
       },
       {
-        q: 'blablabla',
+        q: 'Er energi og kraft det samme?',
         a: false,
       },
     ] 
@@ -258,16 +258,16 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Har alle levende organismer celler?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Foregår fotosyntese kun i planter?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Er DNA arvematerialet i alle organismer?',
+        a: true,
       },
     ] 
 
@@ -279,16 +279,16 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
+        q: 'er pi et uendeligt decimaltal?',
+        a: true,
+      },
+      {
+        q: 'gælder Pythagoras sætning for alle trekanter?',
         a: false,
       },
       {
-        q: 'blablabla',
-        a: false,
-      },
-      {
-        q: 'blablabla',
-        a: false,
+        q: 'Er en funktion en sammenhæng mellem to variable?',
+        a: true,
       },
     ] 
 
@@ -300,15 +300,15 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
-        a: false,
+        q: 'var stumfilm de første film der blev lavet?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Var inderst inde 2 den mest sete film i de danske biografer i 2024?',
+        a: true,
       },
       {
-        q: 'blablabla',
+        q: 'Er alle film baseret på bøger?',
         a: false,
       },
     ] 
@@ -321,16 +321,16 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Er spotify den mest populære musikstreaming tjeneste?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Er det muligt at spille musik uden instrumenter?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Vandt Kendrick Lamar to Grammys i 2024?',
+        a: true,
       },
     ] 
 
@@ -342,16 +342,16 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
+        q: 'Kan man udskifte en grøn baggrund med en anden video eller et billede i redigeringen?',
+        a: true,
+      },
+      {
+        q: 'Er det bedst at have grønt tøj på når man bruger en greenscreen?',
         a: false,
       },
       {
-        q: 'blablabla',
-        a: false,
-      },
-      {
-        q: 'blablabla',
-        a: false,
+        q: 'Bliver greenscreen-teknologi brugt i både film og tv-produktioner?',
+        a: true,
       },
     ] 
 
@@ -363,16 +363,16 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
+        q: 'skal en printer have blæk eller toner for at kunne printe?',
+        a: true,
+      },
+      {
+        q: 'Er det kun muligt at printe i sort/hvid?',
         a: false,
       },
       {
-        q: 'blablabla',
-        a: false,
-      },
-      {
-        q: 'blablabla',
-        a: false,
+        q: 'Kan man printe trådløst fra en computer eller mobil?',
+        a: true,
       },
     ] 
 
@@ -384,16 +384,16 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Har kontoret en glemmekasse?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Er kontoret altid bemandet i skoletiden?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Kan man gå ned på kontoret for at snakke med rektor eller vice rektor?',
+        a: true,
       },
   
     ] 
@@ -406,15 +406,15 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Kan man tage metroen fra forum station?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Kan man tage bussen til forum station?',
+        a: true,
       },
       {
-        q: 'blablabla',
+        q: 'Er forum station en del af M3 og M4 metroen?',
         a: false,
       },
     ] 
@@ -427,16 +427,16 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Koster en 1,5 liter ice tea 5 kr i rema 1000?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Kan man få mange forskellige slags chips i rema 1000?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'kan man få mange forskellige frokostretter i rema 1000?',
+        a: true,
       },
     ] 
 
@@ -448,16 +448,16 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
+        q: 'Er der to forskellige nettoer som ligger tæt på skolen?',
+        a: true,
+      },
+      {
+        q: 'Kan man få det samme i netto som man kan i rema 1000?',
         a: false,
       },
       {
-        q: 'blablabla',
-        a: false,
-      },
-      {
-        q: 'blablabla',
-        a: false,
+        q: 'Er nettos bakeoff kinda goated?',
+        a: true,
       },
     ] 
 
@@ -469,15 +469,15 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Kan man få god og billig kebab på blågårdspladsen?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'Kan man få mange forskellige slags mad på blågårdspladsen?',
+        a: true,
       },
       {
-        q: 'blablabla',
+        q: 'Er der kun en restaurant på blågårdspladsen?',
         a: false,
       },
     ] 
