@@ -195,12 +195,12 @@ let board = [
     owner:0,
     quiz:[ 
       {
-        q: 'blablabla',
-        a: false,
+        q: 'spiller man til 21 i bordtennis?',
+        a: true,
       },
       {
-        q: 'blablabla',
-        a: false,
+        q: 'skal man være mere end 1 til at spille bordtennis?',
+        a: true,
       },
       {
         q: 'blablabla',
